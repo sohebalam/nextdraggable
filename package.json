@@ -1,0 +1,21 @@
+{
+  "name": "draggable",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001271",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-beautiful-dnd": "13.0.0",
+    "react-dom": "^16.13.1",
+    "react-drag-list": "^1.1.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
